@@ -44,3 +44,4 @@ GitLab
 ## Git revert (Отменить изменение)
 
 ## Ветки
+ git checkout case3
