@@ -45,3 +45,4 @@ GitLab
 
 ## Ветки
  git checkout case3
+Слияние веток
