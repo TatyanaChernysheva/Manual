@@ -45,3 +45,6 @@ GitLab
 
 ## Ветки
 Для добавления ветки наберите команду git branch case2 
+
+
+Удаление ветки git branch -d case2
